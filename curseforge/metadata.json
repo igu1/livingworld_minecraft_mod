@@ -1,0 +1,27 @@
+{
+  "name": "Living World",
+  "slug": "livingworld",
+  "modId": "livingworld",
+  "version": "1.0.0+26.1.2",
+  "summary": "A more alive world: moss and vine spread, snow accumulation and animal migration, all configurable.",
+  "tagline": "A world that grows with you.",
+  "categories": [
+    "Adventure and RPG",
+    "Vanilla+"
+  ],
+  "gameVersion": "26.1.2",
+  "modLoader": "NeoForge",
+  "neoforgeVersion": "26.1.2.108",
+  "javaVersion": 25,
+  "license": "All Rights Reserved",
+  "authors": [
+    "Love, Cheese By Ez"
+  ],
+  "side": "Client",
+  "repo": "https://github.com/igu1/livingworld_minecraft_mod",
+  "issueTracker": "https://github.com/igu1/livingworld_minecraft_mod/issues",
+  "logo": "logo.png",
+  "releaseType": "alpha",
+  "artifact": null,
+  "status": "In development"
+}
